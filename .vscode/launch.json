@@ -13,7 +13,7 @@
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": [],
-            "externalConsole": false, // Set to true if you want an external console
+            "externalConsole": true, // Set to true if you want an external console
             "MIMode": "gdb",
             "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe",
             "setupCommands": [
